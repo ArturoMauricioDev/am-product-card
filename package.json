@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -39,8 +39,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "am-product-card",
+  "name": "arturomauriciodev-product-card",
   "author": "Arturo Mauricio",
+  "preferGlobal": true,
   "module": "dist/am-product-card.esm.js",
   "size-limit": [
     {
